@@ -16,7 +16,7 @@
 
 @s - small; @m - medium; @l - large | change 1-5 for 5 columns; 1-4 for four columns e.t.c
 
-Credits
+## Credits
 ==============
 
 [UIkit](https://getuikit.com/), *A lightweight and modular front-end framework
