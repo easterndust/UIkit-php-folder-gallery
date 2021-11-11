@@ -1,5 +1,10 @@
 [![uikit-php-folder-gallery banner](https://raw.githubusercontent.com/easterndust/UIkit-php-folder-gallery/main/header-github.png)](https://webshelf.eu/en/php-folder-gallery/)
 # UIkit-php-folder-gallery
+* Just drop your pictures in the folder
+* Few lines of code
+* Not required php skills
+* UIkit front-end
+* UIkit Lightbox Included
 
 ## Description
 
